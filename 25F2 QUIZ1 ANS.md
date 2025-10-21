@@ -1,5 +1,4 @@
-# Embedded C Programming - Answers Only
-## Combined Answer Key
+# Embedded C Programming - Answers 
 
 ---
 

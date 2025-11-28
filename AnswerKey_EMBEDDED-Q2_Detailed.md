@@ -1,22 +1,6 @@
-# IIT Madras BS ES - Embedded C Programming
-## COMPREHENSIVE ANSWER KEY WITH DETAILED EXPLANATIONS: EMBEDDED-Q2
-**Exam:** Foundation Level - Embedded C Programming  
-**Duration:** 120 minutes  
-**Total Marks:** 90  
-**Date:** November 2025
+## IIT Madras BS ES - Embedded C Programming
+# COMPREHENSIVE ANSWER KEY WITH DETAILED EXPLANATIONS: EMBEDDED-Q2
 
----
-
-## **SECTION 1: EMBEDDED C PROGRAMMING**
-**Section Marks:** 50  
-**Number of Questions:** 18
-
----
-
-## Question 1
-**Type:** Multiple Choice Question  
-**Marks:** 0 (Confirmation Only)  
-**Answer:** NO (or YES - depending on your subject registration)
 
 **Explanation:**
 This is a confirmation question that appears at the beginning of the exam. It's asking students to verify they are attempting the correct subject. Since this is an Embedded C Programming exam, if your hall ticket shows you're registered for this subject, answer YES. If not, answer NO and switch to your registered subject.
